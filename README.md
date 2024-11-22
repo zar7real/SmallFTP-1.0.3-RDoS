@@ -7,7 +7,7 @@ to use the exploit you just need to modify the contents of the IP and the port (
 
 GENERAL DATA:
 
-exploit created on: 22/16/2024
+exploit created on: 22/11/2024
 
 FTP server running on: Windows 11 Home
 
