@@ -15,3 +15,4 @@ download link: https://sourceforge.net/projects/smallftpd/files/
 
 PoC (Proof-of-Concept):
 YT Video: cooming soon.
+screenshot: dos.png
