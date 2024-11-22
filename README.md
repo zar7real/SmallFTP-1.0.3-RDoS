@@ -12,3 +12,6 @@ Author: Alchemy (zar7real)
 Exploit Title: Remote Denial of Service - SmallFTP 1.0.3
 Vendor link: https://smallftpd.sourceforge.net/
 download link: https://sourceforge.net/projects/smallftpd/files/
+
+PoC (Proof-of-Concept):
+YT Video: cooming soon.
