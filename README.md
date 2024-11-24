@@ -21,6 +21,6 @@ download link: https://sourceforge.net/projects/smallftpd/files/
 
 PoC (Proof-of-Concept):
 
-YT Video: cooming soon.
+YT Video: https://youtu.be/OwJ_-9g3eBY?si=zkJsADtSLmQmvKf0
 
 screenshot: dos.png
