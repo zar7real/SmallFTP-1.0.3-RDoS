@@ -9,7 +9,7 @@ GENERAL DATA:
 
 exploit created on: 22/11/2024
 
-FTP server running on: Windows 11 Home
+FTP server running on: Windows 11 Home x64 / Windows 7 Professional x86
 
 Author: Alchemy (zar7real)
 
